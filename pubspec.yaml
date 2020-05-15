@@ -10,6 +10,6 @@ dependencies:
   uuid: 1.0.1
   dslink: ^1.0.3
 environment:
-  sdk: ">=2.0.0 <2.8.2"
+  sdk: ">=2.0.0 <=2.8.2"
 executables:
   dsbroker: broker
